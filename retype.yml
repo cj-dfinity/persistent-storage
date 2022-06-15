@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: # Add your website address here
+branding:
+  title: Tutorials
+  label: #Docs
+  logo: images/logo_simple.svg   #logo.png
+links:
+- text: #Persistent Storage Tutorial
+  link: #https://retype.com/guides/getting-started/
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
